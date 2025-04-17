@@ -4,7 +4,7 @@
 Now David can recognize faces by comparing it with known faces in its memory. Also the GUI is user friendly. The unique feature of this system is to provide user with an option to choose the best face image to store in memory for future recognition. 
 
 Here's a demo of face-recognition
-https://github.com/user-attachments/assets/e25c147e-0d61-4114-8550-89c89952a79e
+[!video](face_recognition.mp4)
 
 ## Key Points
 1. Built a GUI for David.
